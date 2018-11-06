@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Version>0.0.1</Version>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <authors>deminds</authors>
+    <PackageId>GH.DD.IpCalc</PackageId>
+    <PackageProjectUrl>https://github.com/deminds/IpCalc</PackageProjectUrl>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/deminds/IpCalc/master/LICENSE</PackageLicenseUrl>
+    <Title>GH.DD.IpCalc</Title>
+    <Description>Library of IPv4 subnet calculator</Description>
+  </PropertyGroup>
+
+</Project>
